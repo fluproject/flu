@@ -1,0 +1,30 @@
+C:\Users\Admin\Desktop\flu0.3B\Flu-b0.3.1-vacuna+generador-bots\bin\Debug\Cliente.exe.config
+C:\Users\Admin\Desktop\flu0.3B\Flu-b0.3.1-vacuna+generador-bots\bin\Debug\Cliente.exe
+C:\Users\Admin\Desktop\flu0.3B\Flu-b0.3.1-vacuna+generador-bots\bin\Debug\Cliente.pdb
+C:\Users\Admin\Desktop\flu0.3B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\flu0.3B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\Cliente.Form1.resources
+C:\Users\Admin\Desktop\flu0.3B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\Cliente.Properties.Resources.resources
+C:\Users\Admin\Desktop\flu0.3B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\generadorBots.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\flu0.3B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\Cliente.exe
+C:\Users\Admin\Desktop\flu0.3B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\Cliente.pdb
+F:\flu0.3.1B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\flu0.3.1B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\Cliente.Form1.resources
+F:\flu0.3.1B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\generadorBots.csproj.GenerateResource.Cache
+F:\flu0.3.1B\Flu-b0.3.1-vacuna+generador-bots\bin\Debug\generadorBots.exe.config
+F:\flu0.3.1B\Flu-b0.3.1-vacuna+generador-bots\bin\Debug\generadorBots.exe
+F:\flu0.3.1B\Flu-b0.3.1-vacuna+generador-bots\bin\Debug\generadorBots.pdb
+F:\flu0.3.1B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\generadorBots.Properties.Resources.resources
+F:\flu0.3.1B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\generadorBots.exe
+F:\flu0.3.1B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\generadorBots.pdb
+C:\Users\Admin\Desktop\flu0.3.1B\Flu-b0.3.1-vacuna+generador-bots\bin\Debug\generadorBots.exe.config
+C:\Users\Admin\Desktop\flu0.3.1B\Flu-b0.3.1-vacuna+generador-bots\bin\Debug\generadorBots.exe
+C:\Users\Admin\Desktop\flu0.3.1B\Flu-b0.3.1-vacuna+generador-bots\bin\Debug\generadorBots.pdb
+C:\Users\Admin\Desktop\flu0.3.1B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\flu0.3.1B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\Cliente.Form1.resources
+C:\Users\Admin\Desktop\flu0.3.1B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\generadorBots.Properties.Resources.resources
+C:\Users\Admin\Desktop\flu0.3.1B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\generadorBots.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\flu0.3.1B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\generadorBots.exe
+C:\Users\Admin\Desktop\flu0.3.1B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\generadorBots.pdb
+C:\Users\Admin\Desktop\flu0.3.2B - snapshoot - _con arreglos de CHUECO\flu0.3.2B\Flu-b0.3.2-vacuna+generador-bots\bin\Debug\generadorBots.exe.config
+C:\Users\Admin\Desktop\flu0.3.2B - snapshoot - _con arreglos de CHUECO\flu0.3.2B\Flu-b0.3.2-vacuna+generador-bots\obj\x86\Debug\generadorBots.exe
+C:\Users\Admin\Desktop\flu0.3.2B - snapshoot - _con arreglos de CHUECO\flu0.3.2B\Flu-b0.3.2-vacuna+generador-bots\obj\x86\Debug\generadorBots.pdb

@@ -1,0 +1,45 @@
+C:\Users\garciaprada\Downloads\flu0.2B\flu0.2B\Flu-b0.2\Cliente\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\garciaprada\Downloads\flu0.2B\flu0.2B\Flu-b0.2\Cliente\obj\x86\Debug\Cliente.Form1.resources
+C:\Users\garciaprada\Downloads\flu0.2B\flu0.2B\Flu-b0.2\Cliente\obj\x86\Debug\Cliente.Properties.Resources.resources
+C:\Users\garciaprada\Downloads\flu0.2B\flu0.2B\Flu-b0.2\Cliente\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\garciaprada\Downloads\flu0.2B\flu0.2B\Flu-b0.2\Cliente\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\garciaprada\Downloads\flu0.2B\flu0.2B\Flu-b0.2\Cliente\bin\Debug\Cliente.exe
+C:\Users\garciaprada\Downloads\flu0.2B\flu0.2B\Flu-b0.2\Cliente\bin\Debug\Cliente.pdb
+C:\Users\garciaprada\Downloads\flu0.2B\flu0.2B\Flu-b0.2\Cliente\obj\x86\Debug\Cliente.exe
+C:\Users\garciaprada\Downloads\flu0.2B\flu0.2B\Flu-b0.2\Cliente\obj\x86\Debug\Cliente.pdb
+C:\Users\garciaprada\Downloads\flu0.2B\flu0.2B\Flu-b0.2\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\garciaprada\Downloads\flu0.2B\flu0.2B\Flu-b0.2\Cliente\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\garciaprada\Downloads\flu0.2B\flu0.2B\Flu-b0.2\Cliente\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Cliente\bin\Debug\Cliente.exe.config
+D:\Cliente\obj\x86\Debug\Cliente.exe
+D:\Cliente\obj\x86\Debug\Cliente.pdb
+D:\Cliente\bin\Debug\Cliente.exe
+D:\Cliente\bin\Debug\Cliente.pdb
+D:\Cliente\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Cliente\obj\x86\Debug\Cliente.Form1.resources
+D:\Cliente\obj\x86\Debug\Cliente.Properties.Resources.resources
+D:\Cliente\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Cliente\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Cliente\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Cliente\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\Flu-b0.2\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Admin\Desktop\Flu-b0.2\Cliente\Cliente\obj\x86\Debug\Cliente.exe
+C:\Users\Admin\Desktop\Flu-b0.2\Cliente\Cliente\obj\x86\Debug\Cliente.pdb
+C:\Users\Admin\Desktop\Flu-b0.2\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\Admin\Desktop\Flu-b0.2\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Admin\Desktop\Flu-b0.2\Cliente\Cliente\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Flu-b0.2\Cliente\Cliente\obj\x86\Debug\Cliente.Form1.resources
+C:\Users\Admin\Desktop\Flu-b0.2\Cliente\Cliente\obj\x86\Debug\Cliente.Properties.Resources.resources
+C:\Users\Admin\Desktop\Flu-b0.2\Cliente\Cliente\obj\x86\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Flu-b0.3 generador bots\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Admin\Desktop\Flu-b0.3 generador bots\Cliente\Cliente\obj\x86\Debug\Cliente.exe
+C:\Users\Admin\Desktop\Flu-b0.3 generador bots\Cliente\Cliente\obj\x86\Debug\Cliente.pdb
+C:\Users\Admin\Desktop\flu0.3B\Flu-b0.3.1-vacuna+generador-bots\bin\Debug\Cliente.exe.config
+C:\Users\Admin\Desktop\flu0.3B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\Cliente.exe
+C:\Users\Admin\Desktop\flu0.3B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\Cliente.pdb
+C:\Users\Admin\Desktop\flu0.3B\Flu-b0.3.1-vacuna+generador-bots\bin\Debug\Cliente.exe
+C:\Users\Admin\Desktop\flu0.3B\Flu-b0.3.1-vacuna+generador-bots\bin\Debug\Cliente.pdb
+C:\Users\Admin\Desktop\flu0.3B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\flu0.3B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\Cliente.Form1.resources
+C:\Users\Admin\Desktop\flu0.3B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\Cliente.Properties.Resources.resources
+C:\Users\Admin\Desktop\flu0.3B\Flu-b0.3.1-vacuna+generador-bots\obj\x86\Debug\Cliente.csproj.GenerateResource.Cache

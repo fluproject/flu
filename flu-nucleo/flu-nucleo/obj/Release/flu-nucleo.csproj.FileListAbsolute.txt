@@ -1,0 +1,29 @@
+E:\Flub0.5\flu-nucleo\flu-nucleo\bin\Release\flu-nucleo.exe.config
+E:\Flub0.5\flu-nucleo\flu-nucleo\obj\Release\flu-nucleo.exe
+E:\Flub0.5\flu-nucleo\flu-nucleo\obj\Release\flu-nucleo.pdb
+E:\Flub0.5\flu-nucleo\flu-nucleo\bin\Release\flu-nucleo.exe
+E:\Flub0.5\flu-nucleo\flu-nucleo\bin\Release\flu-nucleo.pdb
+E:\Flub0.5\flu-nucleo\flu-nucleo\obj\Release\ResolveAssemblyReference.cache
+E:\Flub0.5\flu-nucleo\flu-nucleo\obj\Release\flu_nucleo.Properties.Resources.resources
+E:\Flub0.5\flu-nucleo\flu-nucleo\obj\Release\flu-nucleo.csproj.GenerateResource.Cache
+C:\Documents and Settings\jcallesg\Escritorio\Flub0.5\flu-nucleo\flu-nucleo\bin\Release\flu-nucleo.exe.config
+C:\Documents and Settings\jcallesg\Escritorio\Flub0.5\flu-nucleo\flu-nucleo\bin\Release\flu-nucleo.exe
+C:\Documents and Settings\jcallesg\Escritorio\Flub0.5\flu-nucleo\flu-nucleo\bin\Release\flu-nucleo.pdb
+C:\Documents and Settings\jcallesg\Escritorio\Flub0.5\flu-nucleo\flu-nucleo\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\jcallesg\Escritorio\Flub0.5\flu-nucleo\flu-nucleo\obj\Release\flu_nucleo.Properties.Resources.resources
+C:\Documents and Settings\jcallesg\Escritorio\Flub0.5\flu-nucleo\flu-nucleo\obj\Release\flu-nucleo.csproj.GenerateResource.Cache
+C:\Documents and Settings\jcallesg\Escritorio\Flub0.5\flu-nucleo\flu-nucleo\obj\Release\flu-nucleo.exe
+C:\Documents and Settings\jcallesg\Escritorio\Flub0.5\flu-nucleo\flu-nucleo\obj\Release\flu-nucleo.pdb
+C:\Documents and Settings\jcallesg\Escritorio\flu0.5b\flu-nucleo\flu-nucleo\bin\Release\flu-nucleo.exe.config
+C:\Documents and Settings\jcallesg\Escritorio\flu0.5b\flu-nucleo\flu-nucleo\bin\Release\flu-nucleo.exe
+C:\Documents and Settings\jcallesg\Escritorio\flu0.5b\flu-nucleo\flu-nucleo\bin\Release\flu-nucleo.pdb
+C:\Documents and Settings\jcallesg\Escritorio\flu0.5b\flu-nucleo\flu-nucleo\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\jcallesg\Escritorio\flu0.5b\flu-nucleo\flu-nucleo\obj\Release\flu_nucleo.Properties.Resources.resources
+C:\Documents and Settings\jcallesg\Escritorio\flu0.5b\flu-nucleo\flu-nucleo\obj\Release\flu-nucleo.csproj.GenerateResource.Cache
+C:\Documents and Settings\jcallesg\Escritorio\flu0.5b\flu-nucleo\flu-nucleo\obj\Release\flu-nucleo.exe
+C:\Documents and Settings\jcallesg\Escritorio\flu0.5b\flu-nucleo\flu-nucleo\obj\Release\flu-nucleo.pdb
+C:\Users\jcallesg\Desktop\flu0.5.2b\flu-nucleo\flu-nucleo\bin\Release\flu-nucleo.exe.config
+C:\Users\jcallesg\Desktop\flu0.5.2b\flu-nucleo\flu-nucleo\obj\Release\flu-nucleo.exe
+C:\Users\jcallesg\Desktop\flu0.5.2b\flu-nucleo\flu-nucleo\obj\Release\flu-nucleo.pdb
+C:\Users\jcallesg\Desktop\Cosas\flu0.5.2b\flu-nucleo\flu-nucleo\bin\Release\flu-nucleo.exe.config
+C:\Users\jcallesg\Desktop\Cosas\flu0.5.2b\flu-nucleo\flu-nucleo\obj\Release\flu-nucleo.pdb

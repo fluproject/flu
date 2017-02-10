@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<instructions>
+<version num="1" />
+<instruction comando="ping" argumento="www.google.com" destino="all"/>
+<instruction comando="ipconfig" argumento="" destino="192.168.1.20"/>
+</instructions>
